@@ -1,6 +1,5 @@
-#include "headers/mathematics.h"
 #include <math.h>
-
+#include "headers/mathematics.h"
 
 double RenderSphere(double mode, double OriginVector[3], double DirectionVector[3], double SphereVector[3], double radius, double tmin, double tmax){
   double closest_t = INFINITY;   
