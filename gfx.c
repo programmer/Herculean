@@ -1,7 +1,7 @@
-#include <stdio.h>
-#include <math.h>
-#include <stdlib.h>
-#include <string.h>
+#include <headers/stdio.h>
+#include <headers/math.h>
+#include <headers/stdlib.h>
+#include <headers/string.h>
 
 #define M 251
 #define KNRM  "\x1B[0m"
