@@ -2,9 +2,9 @@
 #include <math.h>
 #include <stdlib.h>
 #include <string.h>
-#include "gfx.h"
-#include "mathematics.h"
-#include "orender.h"
+#include "headers/gfx.h"
+#include "headers/mathematics.h"
+#include "headers/orender.h"
 
 //inital paramerters
 #define O ((M/2) + 0.5)
