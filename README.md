@@ -3,7 +3,7 @@
 ![Screenshot from 2024-09-04 18-01-57](https://github.com/user-attachments/assets/0ddad117-3942-41bd-b36c-ea2b02c1aca5)
 
 ## Functionality and Usage
-The raytracer currently supports 1920 x 1028 screens in unix shells. It uses ANSI escape sequences to render objects in color. It currently supports: 
+The raytracer currently supports 1920 x 1028 screens in unix shells. It uses ANSI escape sequences to render objects in color. Inspired from "Computer Graphics from Scratch" by Gabriel Gambetta. It currently supports: 
 ```
 The render of multiple spheres
 Point lights
