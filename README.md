@@ -18,6 +18,6 @@ Other types of light (e.x. directional) & colored lights
 Shadows
 Reflections
 Camera movement (i.e. transformation on the Z axis)
-embeddable language support (e.x. lua)
+Embeddable language support (e.x. lua)
 Port doom :0
 ```
